@@ -6,7 +6,7 @@ EBS_URL = "https://ebsonair.ebs.co.kr/fmradiofamilypc/familypc1m/playlist.m3u8"
 EBS_ARTWORK = 'https://github.com/miumida/korea_radio/blob/main/cover_image/EBS_FM.png?raw=true'
 
 #MBC
-MBC_BSE_URL  = 'http://miniplay.imbc.com/WebHLS.ashx?channel={}&protocol=M3U8&agent=ios&nocash=0.3996827673840577&callback=jarvis.miniInfo.loadOnAirComplete'
+MBC_BSE_URL  = 'https://sminiplay.imbc.com/aacplay.ashx?agent=webapp&channel={}&callback=jarvis.miniInfo.loadOnAirComplete'
 MBC_CALL_URL = 'http://175.158.10.83/s{}/_definst_/{}.stream/playlist.m3u8?{}'
 
 FM4U_ARTWORK    = "https://github.com/miumida/korea_radio/blob/main/cover_image/mbc_fm4u.png?raw=true"
